@@ -136,13 +136,13 @@
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | Python, Kotlin, C#, JavaScript, Dart, SQL |
+| **Languages** | Python, Kotlin, C#, Java, JavaScript, Dart, SQL |
 | **AI/ML** | PySpark, TensorFlow, scikit-learn, Spark MLlib |
-| **Backend** | FastAPI, .NET, Google Apps Script, Web3.py |
+| **Backend** | FastAPI, .NET, Spring Boot, Google Apps Script, Web3.py |
 | **Frontend** | Vue 3, React, Flutter, Streamlit, PWA |
 | **Mobile** | Android (Kotlin), Flutter |
 | **Game Dev** | Unity (2D & VR) |
-| **Data** | PostgreSQL, SQLite, Google Sheets, PySpark |
+| **Data** | PostgreSQL, MySQL, SQLite, Google Sheets, PySpark |
 | **DevOps** | Docker, GitHub Actions, Render |
 | **Embedded** | ESP32, Edge AI, Model Quantization |
 
