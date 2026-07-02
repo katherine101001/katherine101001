@@ -60,6 +60,18 @@
 - Domain / Application / Infrastructure / API layered architecture
 - Docker Compose, Swagger, Email (Mailjet), real-time notifications
 
+
+### 💻 [OS Thread Synchronization](https://github.com/katherine101001/os-thread-synchronization)
+**C pthreads — dynamic producer-consumer with buffer resizing**
+`C` `pthreads` `Semaphore` `Mutex` `POSIX`
+
+- Extended producer-consumer: 5 robots + 2 workers, dynamic slot management
+- Buffer auto-expands at 90% occupancy, shrinks at 50%
+- Semaphore + mutex synchronization preventing race conditions
+- SOF201 Operating System assignment — Xiamen University Malaysia
+
+---
+
 ---
 
 ## 🧪 AI & Machine Learning
