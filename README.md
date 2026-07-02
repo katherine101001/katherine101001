@@ -59,7 +59,7 @@
 
 - Domain / Application / Infrastructure / API layered architecture
 - Docker Compose for full-stack deployment
-- JWT auth, role-based access, real-time notifications
+- Docker Compose, Swagger, Email (Mailjet), real-time notifications
 
 ---
 
