@@ -96,14 +96,6 @@
 
 ---
 
-### 🧠 [Week12 ML API](https://github.com/katherine101001/Week12Backend) + [Frontend](https://github.com/katherine101001/Week12Frontend)
-**Deployed ML model with web interface**
-`FastAPI` `Streamlit` `scikit-learn` `Render`
-
-- Backend API serving trained model via REST endpoints
-- Streamlit frontend for interactive predictions
-
----
 
 ## 🎮 Game Development (Unity)
 
@@ -160,7 +152,7 @@
 ## 📬 Contact
 
 - 💼 [GitHub](https://github.com/katherine101001)
-- 📧 katherine.academic@gmail.com
+- 📧 katherinetan1014@gmail.com
 - 🌐 [Portfolio Demo — 团团外卖](https://katherine101001.github.io/tuan-tuan-delivery/)
 
 ---
