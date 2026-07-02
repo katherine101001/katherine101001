@@ -136,7 +136,7 @@
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | Python, Kotlin, C#, Java, JavaScript, Dart, SQL |
+| **Languages** | C, Python, Kotlin, C#, Java, JavaScript, Dart, SQL |
 | **AI/ML** | PySpark, TensorFlow, scikit-learn, Spark MLlib |
 | **Backend** | FastAPI, .NET, Spring Boot, Google Apps Script, Web3.py |
 | **Frontend** | Vue 3, React, Flutter, Streamlit, PWA |
