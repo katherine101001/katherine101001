@@ -58,7 +58,6 @@
 `C#` `.NET` `React` `Docker` `Clean Architecture`
 
 - Domain / Application / Infrastructure / API layered architecture
-- Docker Compose for full-stack deployment
 - Docker Compose, Swagger, Email (Mailjet), real-time notifications
 
 ---
