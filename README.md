@@ -124,10 +124,10 @@
 
 ### Automated Testing Suite
 **End-to-end test automation for web applications**
-`Selenium` `Performance Testing` `Test Automation`
+`Selenium` `JMeter` `Test Automation`
 
 - Automated UI regression tests with Selenium WebDriver
-- Performance / load testing for web applications
+- JMeter load & stress testing for web applications
 - CI-integrated test pipelines
 
 ---
