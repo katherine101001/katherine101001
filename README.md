@@ -6,7 +6,25 @@
 
 ## 🚀 Featured Projects
 
-### 🛵 [团团外卖 · TuanTuan Delivery](https://github.com/katherine101001/tuan-tuan-delivery)
+### 🤖 [YouTube Title Grader](https://github.com/katherine101001/youtube-title-grader)
+**ML-powered YouTube title quality scoring**
+`Jupyter Notebook` `Streamlit` `scikit-learn` `Docker`
+
+- Trained model to grade YouTube titles by engagement potential
+- Streamlit web app + Docker deployment on Render
+
+---
+
+### 🏗️ [Project Management System](https://github.com/katherine101001/project-management-system)
+**Full-stack enterprise platform — C# .NET clean architecture**
+`C#` `.NET` `React` `Docker` `Clean Architecture`
+
+- Domain / Application / Infrastructure / API layered architecture
+- Docker Compose, Swagger, Email (Mailjet), real-time notifications
+
+---
+
+### 🍔 [团团外卖 · TuanTuan Delivery](https://github.com/katherine101001/tuan-tuan-delivery)
 **Production-grade campus food delivery PWA** — zero-commission platform for small merchants
 `Vue 3` `PWA` `Service Worker` `Google Apps Script` `GitHub Pages`
 
@@ -42,7 +60,7 @@
 
 ---
 
-### 🎮 [Study Crossing · 学霸森友会](https://github.com/katherine101001/study-crossing-android)
+### 📱 [Study Crossing · 学霸森友会](https://github.com/katherine101001/study-crossing-android)
 **Animal Crossing-themed educational Android game**
 `Kotlin` `Android XML` `SQLite` `Gamification`
 
@@ -53,15 +71,7 @@
 
 ---
 
-### 📋 [Project Management System](https://github.com/katherine101001/project-management-system)
-**Full-stack enterprise platform — C# .NET clean architecture**
-`C#` `.NET` `React` `Docker` `Clean Architecture`
-
-- Domain / Application / Infrastructure / API layered architecture
-- Docker Compose, Swagger, Email (Mailjet), real-time notifications
-
-
-### 💻 [OS Thread Synchronization](https://github.com/katherine101001/os-thread-synchronization)
+### 🔧 [OS Thread Synchronization](https://github.com/katherine101001/os-thread-synchronization)
 **C pthreads — dynamic producer-consumer with buffer resizing**
 `C` `pthreads` `Semaphore` `Mutex` `POSIX`
 
@@ -71,13 +81,13 @@
 
 ---
 
----
+## 🧠 AI & Machine Learning
 
-## 🧪 AI & Machine Learning
-
-### 🤖 AI Hand Gesture Detection for Robot
+### 🖐️ AI Hand Gesture Detection for Robot
 **ESP32 edge AI · Real-time rock-paper-scissors robot hand**
 `TensorFlow` `ESP32` `Edge AI` `Computer Vision`
+
+🔗 **[Demo (Google Drive)](https://drive.google.com/drive/folders/126jratrKIuIWTJHm4VEP_lD-KLpFd6vG?usp=sharing)**
 
 - Custom image dataset: photographed and labeled hand gestures manually
 - Trained CNN model, compressed via quantization for microcontroller deployment
@@ -86,7 +96,7 @@
 
 ---
 
-### 🦯 Real-Time Object Detection for Visually Impaired
+### 👁️ Real-Time Object Detection for Visually Impaired
 **Distance-aware obstacle detection with audio feedback**
 `TensorFlow` `Computer Vision` `Real-time`
 
@@ -97,16 +107,6 @@
 
 ---
 
-### 📹 [YouTube Title Grader](https://github.com/katherine101001/youtube-title-grader)
-**ML-powered YouTube title quality scoring**
-`Jupyter Notebook` `Streamlit` `scikit-learn` `Docker`
-
-- Trained model to grade YouTube titles by engagement potential
-- Streamlit web app + Docker deployment on Render
-
----
-
-
 ## 🎮 Game Development (Unity)
 
 ### ⚔️ 2D Platforming RPG
@@ -116,18 +116,18 @@
 - Side-scrolling platformer with combat mechanics
 - Experience & leveling system with stat progression
 - Equipment upgrade: weapons, armor, accessories
-- 📹 **[Gameplay Demo (Google Drive)](https://drive.google.com/)** — _link coming soon_
 
 ---
 
-### 🌊 VR Underwater World
+### 🥽 VR Underwater World
 **Immersive ocean exploration in virtual reality**
 `Unity` `VR` `3D Environment Design`
+
+🔗 **[VR Demo (Google Drive)](https://drive.google.com/drive/folders/118hCtjrkLvWZzJwutX4XQ9TX-cFLENQ7?usp=sharing)**
 
 - Full underwater ecosystem: coral reefs, marine life, dynamic lighting
 - VR headset interaction: explore, observe, interact with sea creatures
 - Built as an educational/experiential VR demo
-- 📹 **[VR Demo (Google Drive)](https://drive.google.com/)** — _link coming soon_
 
 ---
 
@@ -161,9 +161,9 @@
 
 ## 📬 Contact
 
-- 💼 [GitHub](https://github.com/katherine101001)
+- 👾 [GitHub](https://github.com/katherine101001)
 - 📧 katherinetan1014@gmail.com
-- 🌐 [Portfolio Demo — 团团外卖](https://katherine101001.github.io/tuan-tuan-delivery/)
+- 📐 [Portfolio Demo — 团团外卖](https://katherine101001.github.io/tuan-tuan-delivery/)
 
 ---
 
