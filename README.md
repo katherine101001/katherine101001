@@ -163,7 +163,6 @@
 
 - 👾 [GitHub](https://github.com/katherine101001)
 - 📧 katherinetan1014@gmail.com
-- 📐 [Portfolio Demo — 团团外卖](https://katherine101001.github.io/tuan-tuan-delivery/)
 
 ---
 
