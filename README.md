@@ -11,16 +11,16 @@
 **ML-powered YouTube title quality scoring — end-to-end from notebook to production**
 
 ```
-┌─ Data Pipeline ──────┐   ┌─ ML Engine ───────────┐   ┌─ Serving Layer ────┐
+┌─ Data Pipeline ───────┐   ┌─ ML Engine ────────────┐   ┌─ Serving Layer ────┐
 │ 47K+ GB trending      │ → │ XGBoost classifier     │ → │ FastAPI REST API   │
 │ videos (Kaggle)       │   │ Macro F1 = 0.704       │   │ /predict /suggest  │
 │ Feature engineering   │   │ SHAP explainability    │   │ /keywords          │
 └───────────────────────┘   └────────────────────────┘   └────────────────────┘
                                        │
                          ┌─────────────┴─────────────┐
-                         │ Streamlit frontend         │
-                         │ Score gauge · helps/hurts  │
-                         │ AI alternatives (Gemini)   │
+                         │ Streamlit frontend        │
+                         │ Score gauge · helps/hurts │
+                         │ AI alternatives (Gemini)  │
                          └───────────────────────────┘
 ```
 
@@ -40,7 +40,7 @@
 **Zero-infrastructure-cost campus food delivery PWA — production-grade, RM 0/month**
 
 ```
-┌─ Client (PWA) ────────────────────┐   ┌─ Serverless Backend ──────┐
+┌── Client (PWA) ────────────────────┐   ┌─ Serverless Backend ──────┐
 │ Vue 3 Composition API              │   │ Google Apps Script (GAS)  │
 │ Service Worker (offline + cache)   │ → │ Google Sheets as DB       │
 │ Web Push API (notifications)       │   │ RESTful JSON API          │
@@ -68,15 +68,15 @@
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│                   Clean Architecture                      │
+│                   Clean Architecture                     │
 ├────────────┬──────────────┬───────────────┬──────────────┤
 │  Domain    │ Application  │Infrastructure │    API       │
 │  Entities  │ Use Cases    │ EF Core       │ ASP.NET Core │
 │  Value Obj │ DTOs         │ SQL Server    │ RESTful      │
 │  Interface │ AutoMapper   │ Repositories  │ Swagger      │
 ├────────────┴──────────────┴───────────────┴──────────────┤
-│              Dependency Inversion (DI)                    │
-│   All layers depend inward → Domain has zero dependencies │
+│              Dependency Inversion (DI)                   │
+│  All layers depend inward → Domain has zero dependencies │
 └──────────────────────────────────────────────────────────┘
 ```
 
