@@ -170,6 +170,8 @@
 **Level-up action RPG with equipment system**
 `Unity` `C#` `2D Game Design`
 
+🔗 **[Gameplay Demo (Google Drive)](https://drive.google.com/drive/folders/1ABr6sw38J0VVHfneg2fHb-smhJQCvNMY?usp=sharing)**
+
 - Side-scrolling platformer with combat mechanics
 - Experience & leveling system with stat progression; equipment upgrade tree
 
