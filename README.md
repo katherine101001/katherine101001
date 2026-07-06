@@ -122,6 +122,8 @@
 **Animal Crossing-themed educational Android game**
 `Kotlin` `Android XML` `SQLite` `Gamification`
 
+🔗 **[Demo Video (Google Drive)](https://drive.google.com/drive/folders/13CheMPt1-2ONk62PxLU8EUoKi822PbTU?usp=sharing)**
+
 - 21 screens, 14 quests, 4 mini-game types across English, Math & General Knowledge
 - 3 user roles (Student / Teacher / Admin), 7-table SQLite schema, coin economy + badge system
 - Slot Machine, Word Track, Fossil Excavation & Multiple Choice game mechanics
