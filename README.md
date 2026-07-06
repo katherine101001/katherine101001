@@ -15,15 +15,6 @@
 
 ---
 
-### 🏗️ [Project Management System](https://github.com/katherine101001/project-management-system)
-**Full-stack enterprise platform — C# .NET clean architecture**
-`C#` `.NET` `React` `Docker` `Clean Architecture`
-
-- Domain / Application / Infrastructure / API layered architecture
-- Docker Compose, Swagger, Email (Mailjet), real-time notifications
-
----
-
 ### 🍔 [团团外卖 · TuanTuan Delivery](https://github.com/katherine101001/tuan-tuan-delivery)
 **Production-grade campus food delivery PWA** — zero-commission platform for small merchants
 `Vue 3` `PWA` `Service Worker` `Google Apps Script` `GitHub Pages`
@@ -34,6 +25,15 @@
 - Real-time order tracking with auto-refresh & audio alerts
 - PWA: installable, works offline, push notifications
 - **RM 0 infrastructure** — entirely on free tier (GitHub Pages + GAS + Cloudflare)
+
+---
+
+### 🏗️ [Project Management System](https://github.com/katherine101001/project-management-system)
+**Full-stack enterprise platform — C# .NET clean architecture**
+`C#` `.NET` `React` `Docker` `Clean Architecture`
+
+- Domain / Application / Infrastructure / API layered architecture
+- Docker Compose, Swagger, Email (Mailjet), real-time notifications
 
 ---
 
